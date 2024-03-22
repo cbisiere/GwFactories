@@ -1,0 +1,22 @@
+{
+  "timeZone": "Europe/Paris",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "LF",
+        "libraryId": "18KpRN1qDO2nXRDvT4n_jaglcdP2x8IlBMTfiFHyPCkuaqVCe94jbeS4c",
+        "version": "0",
+        "developmentMode": true
+      }
+    ],
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Classroom",
+        "version": "v1",
+        "serviceId": "classroom"
+      }
+    ]
+  }
+}
